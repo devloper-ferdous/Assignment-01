@@ -1,0 +1,18 @@
+ nav{
+   border: 1px solid black;
+   border-radius: 45px;
+   padding: 20px 30px; 
+   max-width: 500px;  
+   margin: 0 auto;
+   margin-top: 100px; 
+   justify-content: right;                                                           
+ }
+ a{
+   font-size: 1.5rem;
+   font-weight: 600;
+   color: brown;
+   text-decoration: none;
+   margin-left: 40px;
+   /* margin-top: 100px; */
+   
+ }
